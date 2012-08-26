@@ -1,5 +1,5 @@
 {
-	"name" : "cobaia/EvenementProvider",
+	"name" : "cobaia/evenement-provider",
 	"description" : "Dependecy Injection provider for Evenement to use in Silex or Cilex",
 	"keywords" : ["evenement", "provider", "silex", "cilex"],
 	"homepage" : "http://github.com/krolow/EvenementProvider",
