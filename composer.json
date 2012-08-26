@@ -1,0 +1,19 @@
+{
+	"name" : "cobaia/EvenementProvider",
+	"description" : "Dependecy Injection provider for Evenement to use in Silex or Cilex",
+	"keywords" : ["evenement", "provider", "silex", "cilex"],
+	"homepage" : "http://github.com/krolow/EvenementProvider",
+	"license" : "MIT",
+	"authors" : [
+		{
+			"name" : "Vinícius Krolow",
+			"email" : "krolow@gmail.com"
+		}
+	],
+	"require" : {
+		"php": ">=5.3.3",
+	},
+	"autoload": {
+        "psr-0": { "Cobaia": "src/" }
+    }
+}
