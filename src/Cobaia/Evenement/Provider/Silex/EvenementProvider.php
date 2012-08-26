@@ -10,7 +10,7 @@ class EvenementProvider implements ServiceProviderInterface
     public function register(Application $app)
     {
         $app['evenement.emitter'] = $app->share(function () use ($app) {
-            return new Evenement\EventEmitter();
+            return new \Evenement\EventEmitter();
         });
     }
 
