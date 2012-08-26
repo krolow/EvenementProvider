@@ -1,8 +1,8 @@
-Evenement Provider
+Événement Silex/Cilex Provider
 ==================
 
 
-Dependency Injection provider for Evenement can be used in <a href="https://github.com/fabpot/Silex">Silex</a> and <a href="https://github.com/Cilex/Cilex">Cilex</a>.
+Dependency Injection provider for <a href="https://github.com/igorw/evenement">Événement</a> can be used in <a href="https://github.com/fabpot/Silex">Silex</a> and <a href="https://github.com/Cilex/Cilex">Cilex</a>.
 
 
 
